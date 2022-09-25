@@ -44,12 +44,12 @@ let order = function makeProduct () {
         <img style="width:200px; height:184px;" src= "./images/7.PNG">
         </li>`
         alert(" Wait please ⏳")},4000);  
-},2500); 
-    },2500);    
-    },2500);      
-    },2500);    
+},3000); 
+    },3000);    
+    },3000);      
+    },3000);    
     },3000);     
-    },2500);    
+    },3000);    
     },2000);    
     },2000);
     },1500)
